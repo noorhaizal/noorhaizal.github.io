@@ -6,4 +6,4 @@ categories: general
 ---
 This page is hosted on my Github Pages. Here [is][haizal-pages] link to my GitHub Pages.
 
-[haizal-pages] : https://noorhaizal.github.io/
+[haizal-pages]: https://noorhaizal.github.io/
